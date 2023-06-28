@@ -32,7 +32,7 @@ fclose($csvFile);
    
 
     
-echo "Nema su uspjesno izvezebi u CSV format";
+echo "Podaci su uspjesno prebaceni u CSV format";
 } else {
 echo "Nema dostupnih podataka za izvoz.";
 }
