@@ -3,7 +3,7 @@
 ##
 
 
-####PHP program za izvoz podataka iz baze MySQL u CSV format omogućava vam da prenesete podatke iz tabele u struktuiranom formatu koji se može lako koristiti u drugim programima. Ovaj format je posebno koristan za rad sa tabularnim podacima, kao što su listovi u tabelarnim preglednicima.
+####PHP program za izvoz podataka iz baze MySQL u CSV format omogućava vam da prenesete podatke iz tabele u struktuiranom formatu koji se može lako koristiti u drugim programima. Ovaj format je posebno koristan za rad sa tabelarnim podacima, kao što su listovi u tabelarnim preglednicima.
 Prije početka pisanja koda u PHP programskom jeziku, neophodno je:
 1.	Pokrenuti apache web server korištenjem određenih alata (npr. Xampp)
 2.	Pokretanje MySQL servera 
